@@ -1,3 +1,6 @@
+
+* Code will be reviewed and optimised to latest eth update
+
 # Open Vote Network
 
 
